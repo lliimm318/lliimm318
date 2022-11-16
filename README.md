@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lliimm318&show_icons=true&theme=transparent)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sylim0318)](https://solved.ac/sylim0318)
