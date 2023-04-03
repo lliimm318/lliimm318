@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am a developer who loves Java!
+
 I am a computer science student!
 
 <!--
@@ -17,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-ㅑ
