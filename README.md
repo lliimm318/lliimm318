@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a developer who loves Java!
+I am a computer science student!
 
 <!--
 **lliimm318/lliimm318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ㅑ
